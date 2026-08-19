@@ -20,3 +20,7 @@ ${this.cargando
 
 //Condición con &&:
 ${this.error && html`<p class="error">${this.error}</p>`}
+/**¿Existe this.error?
+    │
+    ├── sí → muestra el párrafo de error
+    └── no → no muestra ese párrafo */

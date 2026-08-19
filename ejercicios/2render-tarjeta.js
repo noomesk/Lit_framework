@@ -105,4 +105,7 @@ class PerfilProfesional extends LitElement {
   }
 }
 
+// Registro con customElements.define(...)
 customElements.define('perfil-profesional', PerfilProfesional);
+/**"tarjeta-perfil" ─────► TarjetaPerfil
+    etiqueta HTML             clase */

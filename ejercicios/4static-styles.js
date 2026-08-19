@@ -42,3 +42,5 @@ static styles = css`
     background: #0284c7;
   }
 `;
+
+//static styles es el lugar donde el componente declara sus estilos.
