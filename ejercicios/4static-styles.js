@@ -26,7 +26,7 @@ static styles = css`
   }
 `;
 
-//ejemplo:
+//ejemplo: revisar
 static styles = css`
   :host {
     display: inline-block;
